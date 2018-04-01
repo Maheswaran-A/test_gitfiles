@@ -15,9 +15,7 @@ class HeaderComponent extends Component{
         <li className="Header_link">When</li>
         <li className="Header_link">Why</li>
         <li className="Header_link">About</li>
-        <li className="Header_link">New link</li>
-        <li className="Header_link">New bundle</li>
-        <li className="Header_link">old bundle</li>
+		<li className="Header_link">thisistest</li>
       </ul>
     </div>
   }
