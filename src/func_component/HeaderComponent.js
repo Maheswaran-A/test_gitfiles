@@ -18,6 +18,7 @@ class HeaderComponent extends Component{
         <li className="Header_link">New link</li>
         <li className="Header_link">New bundle</li>
         <li className="Header_link">old bundle</li>
+		    <li className="Header_link">thisistest</li>
       </ul>
     </div>
   }
